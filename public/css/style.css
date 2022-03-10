@@ -1,0 +1,10 @@
+.border{
+
+    display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	border-top: 3px solid #2ec548;
+	border-left: 3px solid #2ec548;
+}
